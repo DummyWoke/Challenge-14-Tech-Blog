@@ -1,0 +1,19 @@
+{
+  "name": "challenge-14-tech-blog",
+  "version": "1.0.0",
+  "description": "With this challenge I greated a password generator using java script. I achieved this by implimenting button, checkmark, and number input html attributes, which subsequently allowed me to change the result of the password generated once selecting my desired criteria. For the actual generation of the password I used for loops, if statements, and functions to achieve my desired random number generation. From completing this assignment I learned the utility of math.random along with gaining a deeper understanding for for loops after trooblshooting several issues that persisted initally through my algorithm.",
+  "main": "script.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DummyWoke/Challenge-14-Tech-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DummyWoke/Challenge-14-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/DummyWoke/Challenge-14-Tech-Blog#readme"
+}
