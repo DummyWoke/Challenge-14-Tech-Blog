@@ -23,10 +23,8 @@ Post.init(
 
     LinkedUser: {
       type: DataTypes.INTEGER,
-      references: {
-        model: 'User',
-        key: 'id'
-      }
+      references: {model: 'User', key: 'id'
+}
     },
 
   },
